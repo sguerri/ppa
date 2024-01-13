@@ -1,0 +1,14 @@
+Package: cmd
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Sebastien GUERRI <nierrgu@bmel.fr>
+Installed-Size: 1335
+Depends: libc6 (>= 2.34)
+Filename: ./cmd_0.1.0_amd64.deb
+Size: 435060
+MD5sum: 41eeb85decd6c6ce4cdf7a033530c065
+SHA1: 11b0c78eec1bfce34f7ba75bae0817d1f0860256
+SHA256: 27a2bcf68e4e862ea9bd09bbbc26c5a4d762707c442b591b95107f7c860d1f45
+Priority: optional
+Description: Run predefined commands
+
