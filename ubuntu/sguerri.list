@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://sguerri.github.io/ppa ./
+deb https://sguerri.github.io/ppa/ubuntu ./
